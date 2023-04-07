@@ -47,3 +47,25 @@ section {
 #footer {
   background-color: #2fb5b9;
 }
+
+/* #footer a {
+  text-decoration: none;
+} */
+
+
+
+#footer {
+  position: relative;
+  color: #fff;
+  background-color: #2fb5b9;
+  /* padding-top: 70px; */
+  padding-bottom: 50px;
+}
+#footer i,
+#footer a {
+  color: #fff;
+  font-size: 20px;
+}
+#footer a:hover {
+  color: #fff;
+}
